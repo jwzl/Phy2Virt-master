@@ -1,7 +1,7 @@
 /*
  * Copyright(C),2014-2015, All rights reserved.
  * Developed using:  gcc version 4.7.3 20130226 
- * Author: Chang.Qing<chang.qing@advantech.com.cn>
+ * Author: Chang.Qing<cnj1990@sina.com.cn>
  * Description:
  *  Write value to any physical address of any device.
  * Version: 1.00
